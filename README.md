@@ -1,11 +1,11 @@
 # 2018-02-eval-ANN
 Evaluación redes neuronales semestre 2018-02
 
-#Autor
+## Autor
 David Chaverra Munera 
 
-#Agradecimientos
+## Agradecimientos
 Profesor: Juan David Velasquez Henao MSc, PhD
 
-#Instituion
+## Instituion
 Universidad Nacional de Colombia
